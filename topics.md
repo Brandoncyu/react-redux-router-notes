@@ -102,15 +102,7 @@
 <details>
     <summary>Answer here</summary>
      1. Render Component - A React component to render only when the location matches.
-     2. Render Function - This allows for convenient inline rendering and wrapping without the undesired remounting explained above.
-</details>
-
-## Name the two ways to render components
-
-<details>
-    <summary>Answer here</summary>
-     1. Render Component - A React component to render only when the location matches.
-     2. Render Function - This allows for convenient inline rendering and wrapping without the undesired remounting explained above.
+     1. Render Function - This allows for convenient inline rendering and wrapping without the undesired remounting explained above.
 </details>
 
 ## What is Redux Thunk?
